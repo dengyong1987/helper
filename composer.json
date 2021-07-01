@@ -1,0 +1,19 @@
+{
+    "name": "dengyong/helper",
+    "description": "some useful function for development are included",
+    "authors":[
+        {
+            "name": "Deng yong",
+            "email": "dy_klzsx@163.com"
+        }
+    ],
+    "license": "MIT",
+    "require": {
+        "php": "^7.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "dengyong\\helper\\": "src/"
+        }
+    }
+}
